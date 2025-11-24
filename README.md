@@ -9,7 +9,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-*End-to-end time series analysis on Bengaluru hourly traffic volume data with classical decomposition, SARIMA forecasting, and Holt-Winters modeling.*
+*End-to-end time series analysis on Bengaluru daily traffic volume data with classical decomposition, SARIMA forecasting, and Holt-Winters modeling.*
 
 [📖 Documentation](#-documentation) • [🚀 Quick Start](#-quick-start) • [📈 Results](#-sample-outputs) • [🤝 Contributing](#-contributing)
 
